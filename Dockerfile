@@ -1,1 +1,1 @@
-from gcr.io/kubernetes-helm/tiller:v2.6.1
+from quay.io/pires/docker-elasticsearch-kubernetes:1.7.1-4
