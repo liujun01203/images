@@ -1,1 +1,1 @@
-FROM quay.io/coreos/hyperkube:v1.7.6_coreos.0
+FROM gcr.io/kubernetes-helm/tiller:v2.14.1
